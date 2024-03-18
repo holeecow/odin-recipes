@@ -7,3 +7,20 @@ h1 {
     text-align: center;
     font-family: Arial, Verdana, Tahoma, "Trebuchet MS", Georgia;
 }
+
+h2 {
+    font-family:Verdana, Arial, Tahoma, "Trebuchet MS", Georgia;
+    color:coral
+}
+
+li,
+.body {
+    font-size: 20px;
+    color:brown;
+    background-color:azure;
+}
+
+.wellington {
+    height: auto;
+    width: 550px;
+}
